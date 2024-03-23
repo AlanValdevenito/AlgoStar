@@ -57,7 +57,7 @@ Existen múltiples plugins para interpretar estos archivos
         
 Esto les permitiría definir sus clases (una única vez) y utilizarlas en la definición de sus relaciones. 
 
-Aquí pueden encontrar un ejemplo [ejemplo](../diagrams/)
+Aquí pueden encontrar un ejemplo [ejemplo](../documentation/diagrams/)
 
 **Sugerencia:**
 
@@ -65,7 +65,7 @@ Les recomendamos implementar esta herramienta para mitigar los errores de incons
 
 ## Paquetes
 
-![modelo_paquete](../diagrams/packages/paquete_modelo_dependencias.png)
+![modelo_paquete](../documentation/diagrams/packages/paquete_modelo_dependencias.png)
 
 [external_vscode]: https://code.visualstudio.com/Download
 [external_idea]: https://www.jetbrains.com/idea/
